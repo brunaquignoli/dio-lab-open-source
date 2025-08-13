@@ -1,9 +1,9 @@
-# Fork pra trabalhar mais o fork de projetos aqui no github! 
+            Fork pra trabalhar mais o fork de projetos aqui no github! 
 Sou uma estudante de engenharia de software que desenvolve sistemas completos!!
-> Aproveitando aqui pra deixar alguns repositórios e projetos meus, caso alguém veja:
+ Aproveitando aqui pra deixar alguns repositórios e projetos meus, caso alguém veja:
 
 > Sistema de Livraria
-<a href="https://github.com/brunaquignoli/SiteBiblioteca"> <a/>
+https://github.com/brunaquignoli/SiteBiblioteca
 Sistema de gerenciamento de livros, desenvolvido em Java com integração ao banco de dados MySQL, utilizando JDBC. Ele permite cadastrar, atualizar, deletar e consultar livros. As consultas podem ser realizadas por título, por ID ou exibir todos os livros cadastrados.
 
 > Site de Consulta de produtos
